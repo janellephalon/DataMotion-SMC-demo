@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Navbar from './components/Navbar'; 
+import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import Inbox from './components/Inbox';
 
@@ -12,10 +12,10 @@ function App() {
       <Navbar />
       <Container fluid style={{ paddingTop: '20px' }}>
         <Row>
-          <Col md={3}>
+          <Col xs={3}>
             <Sidebar />
           </Col>
-          <Col md={9}>
+          <Col xs={9}>
             <Inbox />
           </Col>
         </Row>
