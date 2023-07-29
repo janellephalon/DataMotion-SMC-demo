@@ -4,9 +4,10 @@ import { Button, ListGroup } from 'react-bootstrap';
 const Sidebar = () => {
     return (
         <div style={{ width: '250px' }}>
-            <Button variant="primary" size="lg" block style={{ marginBottom: '20px' }}>
-                Compose
+            <Button variant="primary" size="lg" block="true" style={{ marginBottom: '20px' }}>
+              Compose
             </Button>
+
             <ListGroup>
                 <ListGroup.Item action href="#inbox">
                     Inbox
