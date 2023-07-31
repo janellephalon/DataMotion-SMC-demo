@@ -1,7 +1,7 @@
 # DataMotion's Secure Message Center API: Demo Project
 
 ## Description
-These are the starter files for the Secure Message Center demo, a React application that showcases the use of the DataMotion Secure Message Center API to build a secure and compliant email inbox. This project serves as a practical part of an API tutorial, guiding developers in creating a secure messaging exchange system.
+This Secure Message Center project demonstrates how to create a React application that showcases the use of the DataMotion Secure Message Center API to build a secure and compliant email inbox. This project serves as a practical part of an API tutorial, guiding developers in creating a secure messaging exchange system.
 
 ## Table of Contents
 - [DataMotion's Secure Message Center API: Demo Project](#datamotions-secure-message-center-api-demo-project)

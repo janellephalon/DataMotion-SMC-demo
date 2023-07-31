@@ -26,7 +26,6 @@ const Inbox = () => {
     fetchEmails();
   }, []);
 
-
   return (
     <ListGroup>
       {emails.map((email, index) => (
